@@ -1,0 +1,14 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore output files
+books_new.json
+
+# Ignore system files
+.DS_Store
+Thumbs.db
